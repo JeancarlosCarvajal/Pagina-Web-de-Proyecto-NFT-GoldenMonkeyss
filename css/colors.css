@@ -1,0 +1,802 @@
+/* colores */
+.AA{
+    fill: #f9ebea important;
+}
+
+.AB{
+    fill: #f2d7d5 important;
+}
+
+.AC{
+    fill: #e6b0aa important;
+}
+
+.AD{
+    fill: #d98880 important;
+}
+
+.AE{
+    fill: #cd6155 important;
+}
+
+.AF{
+    fill: #c0392b important;
+}
+
+.AG{
+    fill: #a93226 important;
+}
+
+.AH{
+    fill: #922b21 important;
+}
+
+.AI{
+    fill: #7b241c important;
+}
+
+.AJ{
+    fill: #641e16 important;
+}
+
+.BA{
+    fill: #fdedec important;
+}
+
+.BB{
+    fill: #fadbd8 important;
+}
+
+.BC{
+    fill: #f5b7b1 important;
+}
+
+.BD{
+    fill: #f1948a important;
+}
+
+.BE{
+    fill: #ec7063 important;
+}
+
+.BF{
+    fill: #e74c3c important;
+}
+
+.BG{
+    fill: #cb4335 important;
+}
+
+.BH{
+    fill: #b03a2e important;
+}
+
+.BI{
+    fill: #943126 important;
+}
+
+.BJ{
+    fill: #78281f important;
+}
+
+.CA{
+    fill: #f5eef8 important;
+}
+
+.CB{
+    fill: #ebdef0 important;
+}
+
+.CC{
+    fill: #d7bde2 important;
+}
+
+.CD{
+    fill: #c39bd3 important;
+}
+
+.CE{
+    fill: #af7ac5 important;
+}
+
+.CF{
+    fill: #9b59b6 important;
+}
+
+.CG{
+    fill: #884ea0 important;
+}
+
+.CH{
+    fill: #76448a important;
+}
+
+.CI{
+    fill: #633974 important;
+}
+
+.CJ{
+    fill: #512e5f important;
+}
+
+.DA{
+    fill: #f4ecf7 important;
+}
+
+.DB{
+    fill: #e8daef important;
+}
+
+.DC{
+    fill: #d2b4de important;
+}
+
+.DD{
+    fill: #bb8fce important;
+}
+
+.DE{
+    fill: #a569bd important;
+}
+
+.DF{
+    fill: #8e44ad important;
+}
+
+.DG{
+    fill: #7d3c98 important;
+}
+
+.DH{
+    fill: #6c3483 important;
+}
+
+.DI{
+    fill: #5b2c6f important;
+}
+
+.DJ{
+    fill: #4a235a important;
+}
+
+.EA{
+    fill: #eaf2f8 important;
+}
+
+.EB{
+    fill: #d4e6f1 important;
+}
+
+.EC{
+    fill: #a9cce3 important;
+}
+
+.ED{
+    fill: #7fb3d5 important;
+}
+
+.EE{
+    fill: #5499c7 important;
+}
+
+.EF{
+    fill: #2980b9 important;
+}
+
+.EG{
+    fill: #2471a3 important;
+}
+
+.EH{
+    fill: #1f618d important;
+}
+
+.EI{
+    fill: #1a5276 important;
+}
+
+.EJ{
+    fill: #154360 important;
+}
+
+.FA{
+    fill: #ebf5fb important;
+}
+
+.FB{
+    fill: #d6eaf8 important;
+}
+
+.FC{
+    fill: #aed6f1 important;
+}
+
+.FD{
+    fill: #85c1e9 important;
+}
+
+.FE{
+    fill: #5dade2 important;
+}
+
+.FF{
+    fill: #3498db important;
+}
+
+.FG{
+    fill: #2e86c1 important;
+}
+
+.FH{
+    fill: #2874a6 important;
+}
+
+.FI{
+    fill: #21618c important;
+}
+
+.FJ{
+    fill: #1b4f72 important;
+}
+
+.GA{
+    fill: #e8f8f5 important;
+}
+
+.GB{
+    fill: #d1f2eb important;
+}
+
+.GC{
+    fill: #a3e4d7 important;
+}
+
+.GD{
+    fill: #76d7c4 important;
+}
+
+.GE{
+    fill: #48c9b0 important;
+}
+
+.GF{
+    fill: #1abc9c important;
+}
+
+.GG{
+    fill: #17a589 important;
+}
+
+.GH{
+    fill: #148f77 important;
+}
+
+.GI{
+    fill: #117864 important;
+}
+
+.GJ{
+    fill: #0e6251 important;
+}
+
+.HA{
+    fill: #e8f6f3 important;
+}
+
+.HB{
+    fill: #d0ece7 important;
+}
+
+.HC{
+    fill: #a2d9ce important;
+}
+
+.HD{
+    fill: #73c6b6 important;
+}
+
+.HE{
+    fill: #45b39d important;
+}
+
+.HF{
+    fill: #16a085 important;
+}
+
+.HG{
+    fill: #138d75 important;
+}
+
+.HH{
+    fill: #117a65 important;
+}
+
+.HI{
+    fill: #0e6655 important;
+}
+
+.HJ{
+    fill: #0b5345 important;
+}
+
+.IA{
+    fill: #e9f7ef important;
+}
+
+.IB{
+    fill: #d4efdf important;
+}
+
+.IC{
+    fill: #a9dfbf important;
+}
+
+.ID{
+    fill: #7dcea0 important;
+}
+
+.IE{
+    fill: #52be80 important;
+}
+
+.IF{
+    fill: #27ae60 important;
+}
+
+.IG{
+    fill: #229954 important;
+}
+
+.IH{
+    fill: #1e8449 important;
+}
+
+.II{
+    fill: #196f3d important;
+}
+
+.IJ{
+    fill: #145a32 important;
+}
+
+.JA{
+    fill: #eafaf1 important;
+}
+
+.JB{
+    fill: #d5f5e3 important;
+}
+
+.JC{
+    fill: #abebc6 important;
+}
+
+.JD{
+    fill: #82e0aa important;
+}
+
+.JE{
+    fill: #58d68d important;
+}
+
+.JF{
+    fill: #2ecc71 important;
+}
+
+.JG{
+    fill: #28b463 important;
+}
+
+.JH{
+    fill: #239b56 important;
+}
+
+.JI{
+    fill: #1d8348 important;
+}
+
+.JJ{
+    fill: #186a3b important;
+}
+
+.KA{
+    fill: #fef9e7 important;
+}
+
+.KB{
+    fill: #fcf3cf important;
+}
+
+.KC{
+    fill: #f9e79f important;
+}
+
+.KD{
+    fill: #f7dc6f important;
+}
+
+.KE{
+    fill: #f4d03f important;
+}
+
+.KF{
+    fill: #f1c40f important;
+}
+
+.KG{
+    fill: #d4ac0d important;
+}
+
+.KH{
+    fill: #b7950b important;
+}
+
+.KI{
+    fill: #9a7d0a important;
+}
+
+.KJ{
+    fill: #7d6608 important;
+}
+
+.LA{
+    fill: #fef5e7 important;
+}
+
+.LB{
+    fill: #fdebd0 important;
+}
+
+.LC{
+    fill: #fad7a0 important;
+}
+
+.LD{
+    fill: #f8c471 important;
+}
+
+.LE{
+    fill: #f5b041 important;
+}
+
+.LF{
+    fill: #f39c12 important;
+}
+
+.LG{
+    fill: #d68910 important;
+}
+
+.LH{
+    fill: #b9770e important;
+}
+
+.LI{
+    fill: #9c640c important;
+}
+
+.LJ{
+    fill: #7e5109 important;
+}
+
+.MA{
+    fill: #fdf2e9 important;
+}
+
+.MB{
+    fill: #fae5d3 important;
+}
+
+.MC{
+    fill: #f5cba7 important;
+}
+
+.MD{
+    fill: #f0b27a important;
+}
+
+.ME{
+    fill: #eb984e important;
+}
+
+.MF{
+    fill: #e67e22 important;
+}
+
+.MG{
+    fill: #ca6f1e important;
+}
+
+.MH{
+    fill: #af601a important;
+}
+
+.MI{
+    fill: #935116 important;
+}
+
+.MJ{
+    fill: #784212 important;
+}
+
+.NA{
+    fill: #fbeee6 important;
+}
+
+.NB{
+    fill: #f6ddcc important;
+}
+
+.NC{
+    fill: #edbb99 important;
+}
+
+.ND{
+    fill: #e59866 important;
+}
+
+.NE{
+    fill: #dc7633 important;
+}
+
+.NF{
+    fill: #d35400 important;
+}
+
+.NG{
+    fill: #ba4a00 important;
+}
+
+.NH{
+    fill: #a04000 important;
+}
+
+.NI{
+    fill: #873600 important;
+}
+
+.NJ{
+    fill: #6e2c00 important;
+}
+
+.OA{
+    fill: #fdfefe important;
+}
+
+.OB{
+    fill: #fbfcfc important;
+}
+
+.OC{
+    fill: #f7f9f9 important;
+}
+
+.OD{
+    fill: #f4f6f7 important;
+}
+
+.OE{
+    fill: #f0f3f4 important;
+}
+
+.OF{
+    fill: #ecf0f1 important;
+}
+
+.OG{
+    fill: #d0d3d4 important;
+}
+
+.OH{
+    fill: #b3b6b7 important;
+}
+
+.OI{
+    fill: #979a9a important;
+}
+
+.OJ{
+    fill: #7b7d7d important;
+}
+
+.PA{
+    fill: #f8f9f9 important;
+}
+
+.PB{
+    fill: #f2f3f4 important;
+}
+
+.PC{
+    fill: #e5e7e9 important;
+}
+
+.PD{
+    fill: #d7dbdd important;
+}
+
+.PE{
+    fill: #cacfd2 important;
+}
+
+.PF{
+    fill: #bdc3c7 important;
+}
+
+.PG{
+    fill: #a6acaf important;
+}
+
+.PH{
+    fill: #909497 important;
+}
+
+.PI{
+    fill: #797d7f important;
+}
+
+.PJ{
+    fill: #626567 important;
+}
+
+.QA{
+    fill: #f4f6f6 important;
+}
+
+.QB{
+    fill: #eaeded important;
+}
+
+.QC{
+    fill: #d5dbdb important;
+}
+
+.QD{
+    fill: #bfc9ca important;
+}
+
+.QE{
+    fill: #aab7b8 important;
+}
+
+.QF{
+    fill: #95a5a6 important;
+}
+
+.QG{
+    fill: #839192 important;
+}
+
+.QH{
+    fill: #717d7e important;
+}
+
+.QI{
+    fill: #5f6a6a important;
+}
+
+.QJ{
+    fill: #4d5656 important;
+}
+
+.RA{
+    fill: #f2f4f4 important;
+}
+
+.RB{
+    fill: #e5e8e8 important;
+}
+
+.RC{
+    fill: #ccd1d1 important;
+}
+
+.RD{
+    fill: #b2babb important;
+}
+
+.RE{
+    fill: #99a3a4 important;
+}
+
+.RF{
+    fill: #7f8c8d important;
+}
+
+.RG{
+    fill: #707b7c important;
+}
+
+.RH{
+    fill: #616a6b important;
+}
+
+.RI{
+    fill: #515a5a important;
+}
+
+.RJ{
+    fill: #424949 important;
+}
+
+.SA{
+    fill: #ebedef important;
+}
+
+.SB{
+    fill: #d6dbdf important;
+}
+
+.SC{
+    fill: #aeb6bf important;
+}
+
+.SD{
+    fill: #85929e important;
+}
+
+.SE{
+    fill: #5d6d7e important;
+}
+
+.SF{
+    fill: #34495e important;
+}
+
+.SG{
+    fill: #2e4053 important;
+}
+
+.SH{
+    fill: #283747 important;
+}
+
+.SI{
+    fill: #212f3c important;
+}
+
+.SJ{
+    fill: #1b2631 important;
+}
+
+.TA{
+    fill: #eaecee important;
+}
+
+.TB{
+    fill: #d5d8dc important;
+}
+
+.TC{
+    fill: #abb2b9 important;
+}
+
+.TD{
+    fill: #808b96 important;
+}
+
+.TE{
+    fill: #566573 important;
+}
+
+.TF{
+    fill: #2c3e50 important;
+}
+
+.TG{
+    fill: #273746 important;
+}
+
+.TH{
+    fill: #212f3d important;
+}
+
+.TI{
+    fill: #1c2833 important;
+}
+
+.TJ{
+    fill: #17202a important;
+}
+
+/* Fin colores */
